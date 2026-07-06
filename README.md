@@ -30,7 +30,7 @@ The Hangman Game is a simple text-based word guessing game:
 
 2. Navigate to the folder:
 
-cd CodeAlpha_Hangman
+   cd CodeAlpha_Hangman
 
 3. Run the game:
 
